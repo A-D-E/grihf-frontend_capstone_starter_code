@@ -1,3 +1,5 @@
+### this Project is a part of Coursera Certification course. All content is made up and fake
+
 # StayHelthy: Your Premier Medical Appointment Booking Platform
 
 Welcome to **StayHelthy**, the innovative online platform that simplifies booking medical appointments. With StayHelthy, you can easily find and book appointments with a wide range of healthcare professionals, from general practitioners to specialists, all committed to providing you with the best possible care.
